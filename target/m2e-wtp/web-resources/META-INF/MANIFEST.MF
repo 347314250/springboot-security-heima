@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-security-heima
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: cn.itcast
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-security-heima
+Created-By: Maven Integration for Eclipse
+
